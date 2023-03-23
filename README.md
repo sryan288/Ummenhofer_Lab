@@ -1,2 +1,2 @@
-# Ummenhofer-Lab
+# Ummenhofer Lab
 A place to share useful code 
